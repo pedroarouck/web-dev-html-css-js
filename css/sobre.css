@@ -27,6 +27,21 @@ figure {
   border: 1px solid lightgrey;
 }
 
-figcaption	{
-		margin-top: 10px;
+figcaption {
+  margin-top: 10px;
+}
+
+.matriz-musicdot {
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.familia-tupfeln {
+  width: 275px;
+  float: right;
+}
+
+figure img {
+  width: 100%;
 }
